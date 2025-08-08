@@ -1,0 +1,869 @@
+✅ On-Page SEO (10 Questions)
+What is the ideal length for a title tag?
+ a) 30-40 characters
+ b) 50-60 characters ✅
+ c) 70-80 characters
+ d) 100 characters
+
+
+Which HTML tag is used for the main heading on a page?
+ a) <h3>
+ b) <p>
+ c) <title>
+ d) <h1> ✅
+
+
+What is keyword stuffing?
+ a) Optimizing with relevant keywords
+ b) Overusing keywords unnaturally ✅
+ c) Using long-tail keywords
+ d) Keyword research
+
+
+Which of the following improves On-page SEO?
+ a) Image compression
+ b) Title tag and meta description optimization ✅
+ c) Server speed
+ d) Backlink building
+
+
+What does meta description do?
+ a) Increases domain authority
+ b) Describes image content
+ c) Summarizes the page in SERP ✅
+ d) Increases keyword density
+
+
+What is the use of Alt text in SEO?
+ a) Increases page speed
+ b) Describes images to search engines ✅
+ c) Links to external pages
+ d) Adds JavaScript
+
+
+Which is an example of a long-tail keyword?
+ a) Shoes
+ b) Buy red running shoes for men ✅
+ c) Running
+ d) Nike
+
+
+Canonical tags are used to...
+ a) Hide duplicate content
+ b) Remove meta data
+ c) Avoid duplicate content issues ✅
+ d) Track conversions
+
+
+What is internal linking?
+ a) Linking from one website to another
+ b) Linking from one page to another within the same site ✅
+ c) Broken link
+ d) Sponsored link
+
+
+Which factor is NOT part of on-page SEO?
+ a) Content
+ b) Title tag
+ c) Image Alt text
+ d) Backlinks ✅
+
+
+
+✅ Technical SEO (10 Questions)
+Which of the following is used to tell search engines not to index a page?
+ a) <meta name="robots" content="noindex"> ✅
+ b) <nofollow>
+ c) <noscript>
+ d) <canonical>
+
+
+What does an XML sitemap help with?
+ a) Page speed
+ b) Image compression
+ c) Search engine crawling ✅
+ d) JavaScript rendering
+
+
+What is robots.txt used for?
+ a) To improve ranking
+ b) To block pages from being crawled ✅
+ c) To compress files
+ d) To redirect pages
+
+
+Which HTTP status code means a permanent redirect?
+ a) 301 ✅
+ b) 404
+ c) 302
+ d) 500
+
+
+Which one affects mobile SEO directly?
+ a) Meta keywords
+ b) Responsive design ✅
+ c) Server location
+ d) Backlinks
+
+
+How can you check site speed performance?
+ a) Ahrefs
+ b) Google Analytics
+ c) Google PageSpeed Insights ✅
+ d) Ubersuggest
+
+
+What does a 404 error mean?
+ a) Page moved
+ b) Page not found ✅
+ c) Redirected
+ d) Duplicate content
+
+
+Which tool is best for identifying crawl errors?
+ a) Google Keyword Planner
+ b) Google Search Console ✅
+ c) Canva
+ d) Mailchimp
+
+
+Structured data helps with...
+ a) Ranking pages
+ b) Visual design
+ c) Rich snippets ✅
+ d) Page load speed
+
+
+Which tag is used to define the language of a page?
+ a) <lang>
+ b) <html lang="en"> ✅
+ c) <language>
+ d) <meta lang>
+
+
+
+✅ General SEO & Best Practices (10 Questions)
+What does SEO stand for?
+ a) Search Engine Options
+ b) Search Engine Optimization ✅
+ c) Site Efficiency Optimization
+ d) None of the above
+
+
+Which one is a white-hat SEO technique?
+ a) Link farming
+ b) Cloaking
+ c) Guest blogging ✅
+ d) Keyword stuffing
+
+
+Which search engine is most commonly optimized for?
+ a) Bing
+ b) Yahoo
+ c) DuckDuckGo
+ d) Google ✅
+
+
+Which tool is used for keyword research?
+ a) Google Search Console
+ b) Google Ads Keyword Planner ✅
+ c) Canva
+ d) Google Maps
+
+
+How often should you submit a sitemap?
+ a) Every week
+ b) Once a year
+ c) Only once
+ d) When changes are made ✅
+
+
+What is domain authority?
+ a) A measure of website trust & ranking potential ✅
+ b) Google ranking
+ c) A server status
+ d) A paid SEO metric
+
+
+Which one is NOT a search engine?
+ a) Yahoo
+ b) Bing
+ c) Google
+ d) Facebook ✅
+
+
+Which of these is a free SEO tool by Google?
+ a) Ahrefs
+ b) SEMrush
+ c) Google Search Console ✅
+ d) Ubersuggest
+
+
+What is bounce rate?
+ a) Number of users
+ b) Rate of backlinks
+ c) Users leaving site without interaction ✅
+ d) Conversion rate
+
+
+Which file helps define URL parameters for crawling?
+ a) sitemap.xml
+ b) index.html
+ c) robots.txt
+ d) parameter handling in GSC ✅
+
+
+
+Here are 30 "Choose the Correct Answer" questions focused on Google Search Console (GSC) and Google Analytics (GA), complete with the correct answers:
+
+✅ Google Search Console & Google Analytics MCQs (30 Questions)
+
+🔹 Google Search Console (15 Questions)
+Which of the following is NOT a feature of Google Search Console?
+ a) Submitting sitemaps
+ b) Checking site security issues
+ c) Viewing paid ad performance ✅
+ d) Monitoring index coverage
+
+
+What does the Performance report in GSC include?
+ a) Bounce rate
+ b) Pageviews
+ c) Clicks and impressions ✅
+ d) Time on site
+
+
+How can you check if a page is indexed in Google?
+ a) Check robots.txt
+ b) URL Inspection Tool ✅
+ c) Google Maps
+ d) Google My Business
+
+
+What status code does GSC show for a “Page Not Found” error?
+ a) 301
+ b) 200
+ c) 404 ✅
+ d) 500
+
+
+Which of the following files helps Google crawl your site efficiently?
+ a) .docx
+ b) sitemap.xml ✅
+ c) robots.jpg
+ d) logo.png
+
+
+Where can you monitor rich result errors in GSC?
+ a) Performance
+ b) Links
+ c) Enhancements ✅
+ d) Core Web Vitals
+
+
+What does “Mobile Usability” in GSC test?
+ a) AMP errors
+ b) Mobile ad performance
+ c) How well your site works on mobile devices ✅
+ d) Mobile network speed
+
+
+Which GSC feature allows viewing backlinks?
+ a) Sitemaps
+ b) Links ✅
+ c) Coverage
+ d) Page Speed
+
+
+GSC alerts users to which type of penalties?
+ a) Email spamming
+ b) Manual actions ✅
+ c) Domain expiry
+ d) Hosting issues
+
+
+What does “Indexed, though blocked by robots.txt” mean?
+ a) Page isn’t indexed
+ b) Page is not discoverable
+ c) Page is indexed but restricted from crawling ✅
+ d) Page speed is low
+
+
+Which Google tool does GSC integrate well with?
+ a) YouTube
+ b) Google Analytics ✅
+ c) Gmail
+ d) Google Docs
+
+
+Which tab is used to submit a sitemap in GSC?
+ a) Coverage
+ b) Settings
+ c) URL Inspection
+ d) Sitemaps ✅
+
+
+What does "Average position" in the performance tab refer to?
+ a) Ad position
+ b) Rank of your website on Google Search ✅
+ c) Page speed score
+ d) Internal link count
+
+
+What is the function of robots.txt?
+ a) Speeds up site loading
+ b) Blocks or allows crawling ✅
+ c) Shows backlinks
+ d) Hides site design
+
+
+Which section of GSC shows errors related to page indexing?
+ a) Links
+ b) URL Inspection
+ c) Coverage ✅
+ d) Manual Actions
+
+
+
+🔹 Google Analytics (15 Questions)
+What does Google Analytics primarily measure?
+ a) Social media growth
+ b) Website traffic and user behavior ✅
+ c) Search rankings
+ d) Backlinks
+
+
+What is a "bounce" in Google Analytics?
+ a) Conversion
+ b) Visitor leaves after visiting one page ✅
+ c) Returning visitor
+ d) Internal redirect
+
+
+Which report shows what devices users are using?
+ a) Audience > Mobile ✅
+ b) Acquisition
+ c) Behavior
+ d) Conversion
+
+
+In GA, what does the term "session" refer to?
+ a) Time spent on one page
+ b) One ad click
+ c) One user interaction set within a time frame ✅
+ d) Form submission
+
+
+What is the default session timeout in GA?
+ a) 10 minutes
+ b) 30 minutes ✅
+ c) 1 hour
+ d) 2 hours
+
+
+Which report tells you where your traffic comes from?
+ a) Behavior
+ b) Acquisition ✅
+ c) Goals
+ d) Conversion
+
+
+Which GA metric measures how many pages a user views on average?
+ a) Bounce rate
+ b) Exit rate
+ c) Pages/Session ✅
+ d) CTR
+
+
+Which GA property allows you to track user activity across multiple platforms (web/app)?
+ a) Universal Analytics
+ b) GA4 ✅
+ c) Search Console
+ d) Firebase only
+
+
+What is a “Goal” in Google Analytics?
+ a) SEO target
+ b) Backlink creation
+ c) Completed user action ✅
+ d) Server configuration
+
+
+What does the “Behavior” report show?
+ a) Device types
+ b) Conversion sources
+ c) User actions on your site ✅
+ d) Geographic location
+
+
+How does GA collect data?
+ a) Cookies and tracking code ✅
+ b) Domain server
+ c) Email marketing
+ d) Robots.txt
+
+
+What is the difference between GA and GSC?
+ a) GA tracks paid ads only
+ b) GSC tracks only traffic sources
+ c) GA tracks user behavior, GSC tracks search visibility ✅
+ d) No difference
+
+
+Which GA report would show how long users stay on your website?
+ a) Session duration ✅
+ b) Page speed
+ c) Exit rate
+ d) Acquisition
+
+
+Which of the following is NOT tracked by default in GA?
+ a) Pageviews
+ b) Video plays ✅
+ c) Session duration
+ d) Device type
+
+
+To track form submissions, you should...
+ a) Use robots.txt
+ b) Set a goal ✅
+ c) Create a sitemap
+ d) Use nofollow links
+
+
+Here are 30 Google Ads interview questions in "Choose the Correct Answer" format, including the answer key:
+
+✅ Google Ads – MCQs with Answers (30 Questions)
+
+🔹 Basics of Google Ads (1–10)
+What is Google Ads primarily used for?
+ a) Organic search ranking
+ b) Social media ads
+ c) Running paid advertisements on Google ✅
+ d) Email campaigns
+
+
+Which of the following is NOT a Google Ads campaign type?
+ a) Search
+ b) Display
+ c) Video
+ d) SEO ✅
+
+
+What does CPC stand for in Google Ads?
+ a) Cost Per Click ✅
+ b) Clicks Per Cost
+ c) Cost Per Conversion
+ d) Customer Product Click
+
+
+Which Google Ads metric indicates how often people click your ad after seeing it?
+ a) CPC
+ b) CTR ✅
+ c) CPM
+ d) Conversion Rate
+
+
+Which tool helps find relevant keywords for your campaign?
+ a) PageSpeed Insights
+ b) Keyword Planner ✅
+ c) Google Analytics
+ d) Search Console
+
+
+Where do Search Ads appear?
+ a) On social media platforms
+ b) In the Google Play Store
+ c) On top of Google search results ✅
+ d) Only in Gmail
+
+
+Which of these is an example of a conversion?
+ a) Scrolling a page
+ b) Clicking on an image
+ c) Submitting a contact form ✅
+ d) Typing in a keyword
+
+
+What is the daily budget in Google Ads?
+ a) Minimum clicks needed
+ b) Maximum impressions allowed
+ c) Amount you’re willing to spend per day ✅
+ d) Account credit limit
+
+
+What is a negative keyword?
+ a) Keyword that brings low CTR
+ b) Keyword that increases CPC
+ c) Keyword for excluding unwanted traffic ✅
+ d) Keyword with bad sentiment
+
+
+Which platform owns and runs Google Ads?
+ a) Meta
+ b) Microsoft
+ c) Google ✅
+ d) Amazon
+
+
+
+🔹 Ad Structure and Settings (11–20)
+Which of the following is the correct Google Ads account structure?
+ a) Ads > Keywords > Campaign
+ b) Account > Campaign > Ad Group > Ad ✅
+ c) Ad > Group > Campaign
+ d) Account > Ad > Campaign > Keyword
+
+
+What’s the main difference between Search and Display campaigns?
+ a) Search appears on websites
+ b) Display uses video
+ c) Search targets intent; Display targets awareness ✅
+ d) Display is free
+
+
+Which match type shows ads only for the exact keyword?
+ a) Broad match
+ b) Phrase match
+ c) Exact match ✅
+ d) Smart match
+
+
+What does Quality Score depend on?
+ a) Ad spend
+ b) CTR, ad relevance, and landing page experience ✅
+ c) Bid amount only
+ d) Ad frequency
+
+
+Which bidding strategy maximizes clicks within a set budget?
+ a) Manual CPC
+ b) Maximize conversions
+ c) Maximize clicks ✅
+ d) Target CPA
+
+
+Which device can you target in Google Ads?
+ a) Only desktop
+ b) Mobile only
+ c) Tablet only
+ d) All of the above ✅
+
+
+Which of the following is used to track conversions?
+ a) Facebook Pixel
+ b) Conversion tracking tag ✅
+ c) Robots.txt
+ d) UTM code only
+
+
+What is an ad extension?
+ a) A paid upgrade
+ b) A way to increase ad word count
+ c) Additional info like phone, links, or address ✅
+ d) SEO tool
+
+
+What does ROAS stand for?
+ a) Reach Over Ad Spend
+ b) Return On Ad Spend ✅
+ c) Rate Of Ad Success
+ d) Revenue On Account Sales
+
+
+Where can you preview your ad position?
+ a) Search Console
+ b) Google Analytics
+ c) Ad Preview Tool ✅
+ d) Google Trends
+
+
+
+🔹 Performance and Optimization (21–30)
+What does a low Quality Score indicate?
+ a) Good ad performance
+ b) Poor ad relevance ✅
+ c) High bid amount
+ d) High conversion rate
+
+
+Which metric shows the average cost of each click?
+ a) CTR
+ b) CPM
+ c) CPC ✅
+ d) ROAS
+
+
+What does CPM stand for?
+ a) Cost Per Metric
+ b) Clicks Per Minute
+ c) Cost Per Mille (1,000 impressions) ✅
+ d) Conversions Per Month
+
+
+What happens if your ad is disapproved?
+ a) It continues running
+ b) It runs on Display only
+ c) It doesn’t show until fixed ✅
+ d) It gets more impressions
+
+
+What’s the ideal CTR benchmark for search campaigns (on average)?
+ a) 0.2%
+ b) 0.5%
+ c) 1–2% ✅
+ d) 10%
+
+
+How can you improve a low-performing ad?
+ a) Increase impressions
+ b) Pause keywords
+ c) Optimize ad copy and landing page ✅
+ d) Reduce ad budget
+
+
+What is the purpose of A/B testing in ads?
+ a) Compare prices
+ b) Test server speed
+ c) Compare performance between variations ✅
+ d) Test only mobile ads
+
+
+Smart campaigns are ideal for...
+ a) Enterprises
+ b) New advertisers/small businesses ✅
+ c) YouTube only
+ d) Social media only
+
+
+Which of the following is a goal in Google Ads?
+ a) Video likes
+ b) Email opens
+ c) Website traffic ✅
+ d) Link shares
+
+
+If your ad isn't showing, what could be the reason?
+ a) High CTR
+ b) No budget left ✅
+ c) Too many extensions
+ d) Wrong Google account
+
+
+Here are 30 interview questions on Organic Social Media Marketing in “Choose the correct answer” format, including the answer key:
+
+✅ Organic Social Media Marketing – MCQs with Answers (30 Questions)
+
+🔹 Basics of Organic Social Media (1–10)
+What does "organic" mean in social media marketing?
+ a) Paid advertising
+ b) Automated bots
+ c) Unpaid, natural reach ✅
+ d) AI content creation
+
+
+Which platform is best for B2B organic content?
+ a) Instagram
+ b) Snapchat
+ c) LinkedIn ✅
+ d) Pinterest
+
+
+What is the primary goal of organic social media?
+ a) Sell products only
+ b) Build brand engagement & community ✅
+ c) Run paid ads
+ d) Promote discounts
+
+
+Which type of content performs best organically on Instagram?
+ a) Long blog posts
+ b) Reels and stories ✅
+ c) PDFs
+ d) Static banners only
+
+
+Hashtags are used in organic posts to:
+ a) Block followers
+ b) Reduce reach
+ c) Categorize and increase discoverability ✅
+ d) Prevent engagement
+
+
+Which metric measures the number of people who saw your post?
+ a) Engagement
+ b) Reach ✅
+ c) Followers
+ d) Impressions
+
+
+What does “engagement” refer to?
+ a) Number of likes, shares, comments ✅
+ b) Only likes
+ c) Ad views
+ d) Followers only
+
+
+When is the best time to post on most platforms for organic reach?
+ a) Midnight
+ b) Random times
+ c) When your audience is most active ✅
+ d) Once a month
+
+
+Which of the following helps increase organic engagement?
+ a) Ignoring comments
+ b) Consistent posting and interacting ✅
+ c) Using only paid ads
+ d) Posting and logging out
+
+
+What does “algorithm” mean in social media?
+ a) A type of user
+ b) Paid feature
+ c) System that decides what content is shown to users ✅
+ d) A content writer
+
+
+
+🔹 Strategy and Optimization (11–20)
+What is a content calendar?
+ a) Paid ad schedule
+ b) Email tool
+ c) A plan for posting content in advance ✅
+ d) A type of story
+
+
+Which of the following helps grow followers organically?
+ a) Keyword stuffing
+ b) Bots
+ c) Posting valuable content consistently ✅
+ d) Ignoring DMs
+
+
+Which platform is best for short-form video content?
+ a) LinkedIn
+ b) YouTube Shorts & Instagram Reels ✅
+ c) Quora
+ d) Medium
+
+
+User-generated content (UGC) helps with:
+ a) SEO ranking
+ b) Community trust & organic reach ✅
+ c) Running ads
+ d) Email automation
+
+
+Stories on Instagram and Facebook disappear after:
+ a) 72 hours
+ b) 12 hours
+ c) 24 hours ✅
+ d) 7 days
+
+
+A CTA in a social media post is used to:
+ a) Stop interaction
+ b) Reduce bounce rate
+ c) Encourage user action ✅
+ d) Hide links
+
+
+Which of these actions negatively affects organic performance?
+ a) Engaging with followers
+ b) Buying fake followers ✅
+ c) Posting relevant content
+ d) Going live
+
+
+Which social platform uses “Pins” for content?
+ a) LinkedIn
+ b) Twitter
+ c) Pinterest ✅
+ d) Instagram
+
+
+What is a social media “insight”?
+ a) Website traffic
+ b) Analytics showing performance ✅
+ c) Ad spend
+ d) Username
+
+
+Which is NOT a content format for organic posts?
+ a) Stories
+ b) Reels
+ c) Carousels
+ d) Sponsored ads ✅
+
+
+
+🔹 Analytics and Tools (21–30)
+What does a high engagement rate indicate?
+ a) Good audience interaction ✅
+ b) Low traffic
+ c) Poor content
+ d) Too many ads
+
+
+Which tool helps schedule organic posts?
+ a) Canva
+ b) Google Ads
+ c) Buffer or Hootsuite ✅
+ d) Google Drive
+
+
+Which metric shows how often users interact with your content?
+ a) CTR
+ b) Engagement rate ✅
+ c) Bounce rate
+ d) CPC
+
+
+Why is responding to comments important?
+ a) Increases bounce rate
+ b) Improves algorithm ranking ✅
+ c) Blocks reach
+ d) Reduces impressions
+
+
+Which of these is a community-building tactic?
+ a) Ignoring DMs
+ b) Sharing UGC ✅
+ c) Only using automation
+ d) Posting once a month
+
+
+What’s the benefit of going live on social media?
+ a) More ad spend
+ b) Organic reach boost & real-time engagement ✅
+ c) Less engagement
+ d) Automated posting
+
+
+Which tool gives platform-specific organic analytics?
+ a) Google Search Console
+ b) Meta Business Suite ✅
+ c) Ahrefs
+ d) Ubersuggest
+
+
+Why is content variety important?
+ a) Prevents algorithm bans
+ b) Keeps followers engaged ✅
+ c) Increases bounce
+ d) Reduces conversion
+
+
+Which content is likely to go viral organically?
+ a) Promotional banners
+ b) Informative & entertaining short videos ✅
+ c) Long blog screenshots
+ d) Only product photos
+
+
+Which of these helps improve organic reach on Instagram?
+ a) Adding 30+ hashtags randomly
+ b) Consistent Reels + Hashtags + Engagement ✅
+ c) Paid ads only
+ d) Ignoring insights
